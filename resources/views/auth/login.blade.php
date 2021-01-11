@@ -2,6 +2,12 @@
 
 @section('content')
 <div class="container">
+        <div class="offset-2">
+            <h1> Welcome Back </h1>
+            <div class="m-3">
+                <p> Login to see photos and videos from your friends.</p>
+            </div>
+        </div>
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
