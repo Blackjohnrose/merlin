@@ -1,5 +1,5 @@
 # Merlin
-A small social you can share post and follow/unfollow people and see there post
+A small social you can share a post and follow/unfollow people and see their post
 #
 ![alt text](https://github.com/Blackjohnrose/merlin/blob/main/screenshot.png?raw=true)
 #
